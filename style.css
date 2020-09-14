@@ -72,5 +72,5 @@ a[href^="mailto:"] {
     text-decoration: none;
 }
 /* Hover, visited */
-a:visited { color: hsl(120, 100%, 5%); }
+a:visited { color: blue(120, 100%, 5%); }
 a:hover   { color: hsl(0, 100%, 35%); }
